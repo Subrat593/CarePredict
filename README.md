@@ -3,6 +3,11 @@
 ## 👥 Team Name: HealthGuardians
 ## 🆔 Team ID: TEAM(MB5)_3_NO:3
 
+👨‍⚕️ Team Members:
+SUBRAT KUMAR MAJHI
+KRISHNA SAHU
+SHIVAM PAUL
+DEBASIS SWAIN
 ---
 
 ## 📌 Problem Statement:
@@ -39,7 +44,7 @@ pip install -r requirements.txt
 Run the app:
 streamlit run app.py
 
-##🧰 Tools & Technologies Used:
+🧰 Tools & Technologies Used:
 Python
 Streamlit
 Pandas, Seaborn
