@@ -31,7 +31,7 @@ Early prediction of hospital readmission risk allows proactive care for patients
 ---
 
 ## 🧾 Presentation Slides:
-📂 [View Presentation on Google Drive](https://docs.google.com/presentation/d/1DYx0eVwsUGe_3Z0RJ6WtomwFEZQ0Dwdz/edit?usp=drive_link&ouid=104915147483863183103&rtpof=true&sd=true)
+📂 [View Presentation on Google Drive](https://docs.google.com/presentation/d/1DYx0eVwsUGe_3Z0RJ6WtomwFEZQ0Dwdz/edit?usp=sharing&ouid=104915147483863183103&rtpof=true&sd=true)
 
 ---
 
